@@ -27,6 +27,6 @@ public class AppTest {
 
     @Test public void testDiagMotorHibrido() {
         Motor m = new MotorHibridoAdapter();
-        assertTrue("Encendiendo Motor Hibrido+Acelerando Motor Hibrido+Acelerando Motor Hibrido+Deteniendo Motor Hibrido".equals(m.encender()));
+        assertTrue("Encendiendo Motor Hibrido+Acelerando Motor Hibrido+Acelerando Motor Hibrido+Deteniendo Motor Hibrido".equals(m.diagnosticar()));
     }
 }
