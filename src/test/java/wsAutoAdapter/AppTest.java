@@ -17,7 +17,7 @@ public class AppTest {
 
     @Test public void testDiagMotorEconomico() {
         Motor m = new MotorEconomico();
-        assertTrue("Encendiendo Motor Comun+Apagando Motor Comun".equals(m.diagnosticar());
+        assertTrue("Encendiendo Motor Economico+Apagando Motor Comun".equals(m.diagnosticar());
     }
 
     @Test public void testDiagMotorElectrico() {
