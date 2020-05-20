@@ -12,12 +12,12 @@ import static org.junit.Assert.*;
 public class AppTest {
     @Test public void testDiagMotorComun() {
         Motor m = new MotorComun();
-        assertTrue("Encendiendo Motor Comun+Acelerando Motor Comun+Apagando Motor Comun".equals(m.diagnosticar());
+        assertTrue("Encendiendo Motor Comun+Acelerando Motor Comun+Apagando Motor Comun".equals(m.diagnosticar()));
     }
 
     @Test public void testDiagMotorEconomico() {
         Motor m = new MotorEconomico();
-        assertTrue("Encendiendo Motor Economico+Apagando Motor Comun".equals(m.diagnosticar());
+        assertTrue("Encendiendo Motor Economico+Apagando Motor Economico".equals(m.diagnosticar());
     }
 
     @Test public void testDiagMotorElectrico() {
