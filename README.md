@@ -4,7 +4,7 @@ Extienda el diseño de su controlador automotriz del ejercicio del adaptador par
 
 ## CASOS DE PRUEBA:
 
-•	Están incluidos en su repositorio inicial de Github. Analice la especificación de casos de prueba que el Ingeniero de Pruebas ha diseñado para asegurar la correcta implementación de estos requisitos y programe lo necesario para pasar todas las pruebas. La especificación de prueba se ha realizado de acuerdo al Manuel de operación de cada motor donde señala la forma correcta en que el diagnóstico se realiza dependiendo del tipo de motor.
+•	Están incluidos en su repositorio inicial de Github. Analice la especificación de casos de prueba que el Ingeniero de Pruebas ha diseñado para asegurar la correcta implementación de estos requisitos y programe lo necesario para pasar todas las pruebas. La especificación de prueba se ha realizado de acuerdo al Manual de operación de cada motor donde señala la forma correcta en que el diagnóstico se realiza dependiendo del tipo de motor.
 
 ## ENTREGABLES:
 
